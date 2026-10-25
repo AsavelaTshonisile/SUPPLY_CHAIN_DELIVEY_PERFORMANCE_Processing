@@ -1,0 +1,10 @@
+Metric,Value
+Total records processed,"180,519"
+Late deliveries,"98,977"
+Late-delivery percentage,54.83%
+Average actual shipping duration,3.50 days
+Average scheduled shipping duration,2.93 days
+Average shipping difference,0.57 days
+Exact duplicate rows,60
+Missing values,0
+Shipping difference mismatches,0
