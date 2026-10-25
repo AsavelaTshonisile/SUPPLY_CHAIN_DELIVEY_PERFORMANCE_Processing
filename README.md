@@ -67,7 +67,7 @@ The project uses the **DataCo Supply Chain dataset**, which contains supply chai
 The original dataset contains approximately 180,519 records. It is used to evaluate delivery performance and investigate data quality.
 
 If the original dataset is not included in this repository, obtain an authorised copy separately and place it in the `data/` folder. Update the notebook or Java file path if necessary.
-
+[https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset](url)
 ## How to Run the Project
 
 ### 1. Run the Java Component
